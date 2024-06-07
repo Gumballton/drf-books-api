@@ -1,4 +1,4 @@
-# DRF Book API
+# DRF Books API
 
 ![django](https://img.shields.io/badge/django-5.0.6-blue)
 ![DRF](https://img.shields.io/badge/DRF-3.15.1-blue)
