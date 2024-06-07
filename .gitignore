@@ -1,3 +1,6 @@
+booksapi/booksapi/.env
 djenv/
 booksapi/booksapi/__pycache__
 booksapi/db.sqlite3
+booksapi/booksapp/__pycache__
+booksapi/booksapp/migrations/__pycache__
