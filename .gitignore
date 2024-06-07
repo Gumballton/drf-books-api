@@ -1,2 +1,3 @@
 djenv/
 booksapi/booksapi/__pycache__
+booksapi/db.sqlite3
